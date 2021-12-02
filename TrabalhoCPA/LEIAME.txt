@@ -1,0 +1,9 @@
+João Viktor de Carvalho Mota - 16/0127823
+
+Especificação 3 - Simulação de contador de peças
+
+Parte 1 - Só foi feita a mudança do código logo está exatamente igual porém com o meu sistema por autômatos.
+
+Parte 2 - Código feito no MATLAB.
+
+Parte 3 - https://www.plcfiddle.com/fiddles/72123bb2-ca48-485c-9ab6-168d66fc6dfa
