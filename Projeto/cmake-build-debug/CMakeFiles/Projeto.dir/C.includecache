@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../state_machine/inc/dev_helper.h
+stdio.h
+-
+
+../state_machine/inc/state_machine.h
+stdint.h
+-
+
+D:/CPA/Projeto/state_machine/src/state_machine.c
+dev_helper.h
+-
+state_machine.h
+-
+
